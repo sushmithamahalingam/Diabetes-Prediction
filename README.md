@@ -9,8 +9,7 @@
 📬 How to reach me: [sushmithamahalingamoffical@gmail.com](sushmithamahalingamoffcial@gmail.com)<br>
 
 💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
- things that change the world.
+ As a information technology Student, I enjoy using python to solve all program
 
 
 -------------------------------------------------------------------------------------------------------

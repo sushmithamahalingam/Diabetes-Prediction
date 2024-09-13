@@ -40,7 +40,7 @@ _(click the button!)_
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/sushmithamahalingam)✨**
+✨[`@sushmithamahalingam`](https://github.com/sushmithamahalingam)✨**
 
 
 Projects: 

@@ -21,32 +21,15 @@
 ### Find me on 
 
 _(click the button!)_
-https://github.com/sushmithamahalingam/Diabetes-Prediction/edit/main/README.md
 
 
-[![GitHub]
+
+[![GitHub]https://github.com/sushmithamahalingam/Diabetes-Prediction/edit/main/README.md
 
 -------------------------------------------------------------------------------------------------------
-### I'm Completed on Right Now
-#### Completed Conference Papers
-[![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
-   ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
-2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification**  
-   ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 
 
-### I'm working on Right Now
-#### Crop Prediction Model: 
-The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
 
-#### Real-Time Startup Success Predictor: 
-Designed and implemented a real-time data classification system for a startup, employing Support Vector Machines and Neural Networks. The innovative approach, incorporating diverse features and continuous updates, enhanced decision-making processes and attracted investor attention.
-
-#### Accelerometer-Based Human Activity Prediction: 
-Researched and developed a robust machine learning model using accelerometer data and deep learning techniques. Achieved high accuracy in classifying human activities with a fine-tuned architecture, paving the way for applications in health monitoring, fitness tracking, and assistive technologies.
 
 -------------------------------------------------------------------------------------------------------
 ### 📊 My GitHub Stats:

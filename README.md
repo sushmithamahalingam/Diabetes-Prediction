@@ -33,21 +33,14 @@ _(click the button!)_
 
 -------------------------------------------------------------------------------------------------------
 ### 📊 My GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
-
-![](https://github-profile-trophy.vercel.app/?username=Hirthick6&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020&margin-w=4)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<br>
+![](https://github.com/sushmithamahalingam/Diabetes-Prediction/edit/main/README.md)
 
 
-- 👨💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+- 👨💻All of my projects are available at [https://github.com/sushmithamahalingam](https://github.com/sushmithamahalingam)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@Hirthick`](https://github.com/Hirthick6)✨**
+✨[`@Hirthick`](https://github.com/sushmithamahalingam)✨**
 
 
 Projects: 
@@ -58,19 +51,17 @@ Projects:
 
 ## Demo WebApp
 
-This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
+This app is up and running on diabetes prediction if the people have diabetes it will indicates
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
+
 
 ## Project Overview:
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+sushmithamahalingam have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning diabetes
 
-- ### Team Members
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBuZXZ0aGhqNTFtd3Q0MnBrbXUwcjBjNjI4M3JqcTFkaGw4eXdoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXFdM9bohG4bqK2qOT/giphy.gif
-)
 
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+
+###  If you have any doubt or want to contribute feel free to hit me up on (sushmithamahalingamofficial@gmail.com)
 
 
 # Startup-Company-Machine-Learning with Streamlit Demo
@@ -94,11 +85,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRjbWJ0ZWJnb2R2MWl5cWpkeWVpdnJ
 
 ## Requirements
 Python 3.9.13
-Streamlit
-Machine Learning
-Pandas
-Numpy
-Scikit-learn
+
 
 ## How to Run
 * Clone the repository
@@ -106,16 +93,8 @@ Scikit-learn
 ```
 $ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
 ```
-* Setup Virtual Environment
 
-```
-$ python3 -m venv env
-```
-* Activate the virtual environment
 
-```
-$ env\Scripts\activate
-```
 * Install dependencies using
 
 ```
@@ -130,6 +109,6 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
-The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
+If you have any doubt or want to contribute feel free to hit me up on (sushmithamahalingamofficial@gmail.com)
+
 
